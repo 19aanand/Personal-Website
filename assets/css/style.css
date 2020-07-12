@@ -1,0 +1,35 @@
+.nameSection
+{
+    text-align: center;
+    background-image: url("../images/DNA.jpg");
+    background-size: cover; 
+    height: 100vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nameSection h1
+{
+    color: peachpuff;
+}
+
+.nameSection h3
+{
+    color: yellowgreen;
+}
+
+
+.container-fluid a
+{
+    color: white;
+}
+
+.container-fluid a:hover
+{
+    color: black;
+}
+
+.personalInfo img
+{
+    width: 400px;
+    height: 400px;
+}
